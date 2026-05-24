@@ -1,3 +1,2 @@
-# test
-...
-Based on the rules of the project given.
+#
+Based on the instructions given for the project.
